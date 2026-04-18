@@ -1,8 +1,13 @@
 # Fonte-de-Informa-o-e-Banco-de-Dados
 Disciplina ministrada no primeiro semestre CST GPI
 
+# Apresentação utilizando software de design gráfico
 
+Apresentação confeccionada utilizando o canva
 
+[Apresentação - GPI.pdf](https://github.com/user-attachments/files/26845626/Apresentacao.-.GPI.pdf)
+
+<img width="953" height="506" alt="image" src="https://github.com/user-attachments/assets/d68a9483-d0da-45be-bd17-9946b7c154cd" />
 
 # 06.03.26 Primeiro backlog utilizando a metodologia "Scrum"
 Nessa atividade realizamos um contato direto com o cliente, afim de entender e atender suas necessidades. Posteriormente realizamos um brainstorm em equipe e nos separamos para executar a ideia do produto:
